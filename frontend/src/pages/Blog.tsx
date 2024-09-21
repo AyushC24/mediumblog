@@ -10,7 +10,7 @@ export const Blog = ()=>{
         id:Number(id || "1")
     });
     // console.log(blog);
-    if(loading){
+    if(loading || !blog){
         return <div>
             <AppBar/>
             <div className="h-screen flex flex-col justify-center">
