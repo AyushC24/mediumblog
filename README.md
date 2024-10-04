@@ -6,6 +6,8 @@ This project is a Medium-like blogging platform where users can sign up, log in,
 
 ---
 
+## ![**Live Link**](https://mediumblog-jtjcpvpn6-ayush-chandras-projects-46d270ba.vercel.app/signup) 
+
 ## **Technology Used**
 
 - **Frontend:**  
